@@ -1,7 +1,13 @@
 html, body {
   height: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+h1, h2, #skills {
+  font-family: Pacifico, Geneva, Verdana, sans-serif;
+}
 
-
+.projects {
+  font-weight: normal;
+}
 
